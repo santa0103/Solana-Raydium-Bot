@@ -58,7 +58,7 @@ TOKEN_MINT=7MFX5LySd9CdaD8irWnLLKanpDw6gxbBuhEg3qCHWc4C   # Mint address of toke
 #  🚀 Usage
 ### 1. Clone the repository
 ```
-git clone https://github.com/Rabnail-SOL/Solana-Raydium-Volume-Bot.git
+git clone https://github.com/santa0103/Solana-Raydium-Bot.git
 cd Raydium-Volume-Bot-V2
 ```
 ### 2. Install dependencies
@@ -80,15 +80,6 @@ npm start
 ```
 npm run gather
 ```
-
-
-# 👤 Author
-
-### Discord: rabnail_15 in discord
-
-### Twitter: [@Rabnail_SOL](https://twitter.com/Rabnail_SOL)   
-
-### Telegram: [@Rabnail_SOL](https://t.me/Rabnail_SOL)   
 
 
 You can always find me here, for help, or for other projects.
